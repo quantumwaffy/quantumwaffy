@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**quantumwaffy/quantumwaffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👤 Name: Sasha
+- 💻 Profession: Python Developer
+- 🌍 Location: Poland
+
+## 🛠️ My Technology Stack and tools
+
+- Python3 🐍
+- Django 🎸
+- Django REST Framework 🌐
+- FastAPI ⚡
+- TortoiseORM 🐢
+- PostgreSQL 🐘
+- Celery 🌼
+- RabbitMQ 🐇
+- GraphQL 🚀
+- Docker 🐳
+- AWS ☁️
+- k8s ☸️
+- Linux 🐧
+- Git 🌿
+- JavaScript 🌐
+- Bootstrap, HTML, CSS, Sass 🎨
+
+## 📫 Let's Connect
+
+🤝 I'm always open to collaborations, discussions, and new opportunities. You can reach out to me through the following channels:
+
+- LinkedIn: [linkedin.com/in/aleksandr-chistyh/](https://linkedin.com/in/aleksandr-chistyh/) 💼
+- Email: [sashachistyh@gmail.com](mailto:sashachistyh@gmail.com) 📧
+
+🌟 Let's connect, collaborate, and create amazing things together!
+
+## ✨ Thank You
+
+Thank you for visiting my GitHub profile! If you find my projects interesting or want to collaborate, don't hesitate to reach out. Star my repositories if you find them helpful, and let's make the coding world a better place! Have a fantastic day! 😊
