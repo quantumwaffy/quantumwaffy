@@ -22,6 +22,7 @@
 - Docker 🐳
 - AWS ☁️
 - k8s ☸️
+- Terraform 🏗️
 - Linux 🐧
 - Git 🌿
 - JavaScript 🌐
