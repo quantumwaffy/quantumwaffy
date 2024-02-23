@@ -14,16 +14,23 @@
 - Django 🎸
 - Django REST Framework 🌐
 - FastAPI ⚡
+- Asyncio ⚙️
+- Multiprocessing 🔄
+- Threading 🧵
 - TortoiseORM 🐢
+- SQLAlchemy ORM 🗃️
 - PostgreSQL 🐘
 - Celery 🌼
 - RabbitMQ 🐇
+- Redis 🗝️
 - GraphQL 🚀
 - Docker 🐳
 - AWS ☁️
 - k8s ☸️
 - Terraform 🏗️
 - Linux 🐧
+- Bash 🐚
+- GNU make 🛠️
 - Git 🌿
 - JavaScript 🌐
 - Bootstrap, HTML, CSS, Sass 🎨
